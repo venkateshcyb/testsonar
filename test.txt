@@ -3,3 +3,4 @@ hai my test git to check auto detect
 hai to check from console
 hai to check 4th time
 hai to check sonarqube integration 1st with free style
+hai to check the time interval of sonarqube and jenkins
