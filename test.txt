@@ -1,1 +1,2 @@
 hai my test git
+hai my test git to check auto detect
